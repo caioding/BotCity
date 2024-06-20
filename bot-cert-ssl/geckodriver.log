@@ -1,0 +1,39 @@
+1718905830768	geckodriver	INFO	Listening on 127.0.0.1:61433
+1718905833849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aluno\\AppData\\Local\\Temp\\2\\rust_mozprofileZcUsQM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718905834776	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718905835143	Marionette	INFO	Listening on port 61447
+Read port: 61447
+1718905835461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.botcity.dev/, line 22: ReferenceError: Weglot is not defined
+JavaScript error: https://herotofutags.com/sticky/v1.js, line 1: TypeError: window.herotofu is undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/mixitup/3.3.0/mixitup.min.js, line 16: Error: [MixItUp] An invalid selector or element reference was passed to the mixitup factory function
+JavaScript error: https://www.botcity.dev/, line 311: SyntaxError: redeclaration of const containerEl
+1718905842577	Marionette	INFO	Stopped listening on port 61447
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1718906318192	geckodriver	INFO	Listening on 127.0.0.1:61735
+1718906321270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aluno\\AppData\\Local\\Temp\\2\\rust_mozprofileEe5B5t"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718906321943	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718906322274	Marionette	INFO	Listening on port 61745
+Read port: 61745
+1718906322611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1718906328009	Marionette	INFO	Stopped listening on port 61745
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1718907554487	geckodriver	INFO	Listening on 127.0.0.1:62252
+1718907557619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aluno\\AppData\\Local\\Temp\\2\\rust_mozprofileElGKx5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718907558185	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718907558725	Marionette	INFO	Listening on port 62262
+Read port: 62262
+1718907559051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1718907565546	Marionette	INFO	Stopped listening on port 62262
+Dynamically enable window occlusion 1

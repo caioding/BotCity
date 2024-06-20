@@ -1,0 +1,88 @@
+1718829184113	geckodriver	INFO	Listening on 127.0.0.1:49312
+1718829187183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aluno\\AppData\\Local\\Temp\\2\\rust_mozprofileg0MYUE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718829188114	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718829188492	Marionette	INFO	Listening on port 49322
+Read port: 49322
+1718829188928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1718829206340	Marionette	INFO	Stopped listening on port 49322
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1718829783699	geckodriver	INFO	Listening on 127.0.0.1:49606
+1718829786752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aluno\\AppData\\Local\\Temp\\2\\rust_mozprofilen66aH8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718829787892	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718829788844	Marionette	INFO	Listening on port 49616
+Read port: 49616
+1718829789231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1718829791842	Marionette	INFO	Stopped listening on port 49616
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/fingerprinting-protection-overrides sync interrupted by shutdown
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+1718829798141	geckodriver	INFO	Listening on 127.0.0.1:49631
+1718829801200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aluno\\AppData\\Local\\Temp\\2\\rust_mozprofileVp8CnY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718829802076	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718829802400	Marionette	INFO	Listening on port 49644
+Read port: 49644
+1718829802731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1718829807575	Marionette	INFO	Stopped listening on port 49644
+JavaScript warning: https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.pt_BR.-xdgZbHaZhw.es5.O/am=EMKgswE/d=1/excm=_b,_tp,calloutview/ed=1/dg=0/wt=2/ujg=1/rs=AM-SdHspwwahEtgl-A1aZ0RObatqTdrocw/m=_b,_tp, line 251: Script terminated by timeout at:
+c@https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.pt_BR.-xdgZbHaZhw.es5.O/am=EMKgswE/d=1/excm=_b,_tp,calloutview/ed=1/dg=0/wt=2/ujg=1/rs=AM-SdHspwwahEtgl-A1aZ0RObatqTdrocw/m=_b,_tp:251:187
+
+Dynamically enable window occlusion 1
+1718829849927	geckodriver	INFO	Listening on 127.0.0.1:49717
+1718829852991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aluno\\AppData\\Local\\Temp\\2\\rust_mozprofile9KRtOn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718829853990	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718829854326	Marionette	INFO	Listening on port 49731
+Read port: 49731
+1718829854652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1718829861124	Marionette	INFO	Stopped listening on port 49731
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1718829896590	geckodriver	INFO	Listening on 127.0.0.1:49795
+1718829899666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aluno\\AppData\\Local\\Temp\\2\\rust_mozprofileGPk8sQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718829900470	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718829900833	Marionette	INFO	Listening on port 49808
+Read port: 49808
+1718829901168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1718829905981	Marionette	INFO	Stopped listening on port 49808
+JavaScript warning: https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.pt_BR.-xdgZbHaZhw.es5.O/am=EMKgswE/d=1/excm=_b,_tp,calloutview/ed=1/dg=0/wt=2/ujg=1/rs=AM-SdHspwwahEtgl-A1aZ0RObatqTdrocw/m=_b,_tp, line 251: Script terminated by timeout at:
+c@https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.pt_BR.-xdgZbHaZhw.es5.O/am=EMKgswE/d=1/excm=_b,_tp,calloutview/ed=1/dg=0/wt=2/ujg=1/rs=AM-SdHspwwahEtgl-A1aZ0RObatqTdrocw/m=_b,_tp:251:187
+
+Dynamically enable window occlusion 1
+1718830034351	geckodriver	INFO	Listening on 127.0.0.1:49913
+1718830037402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aluno\\AppData\\Local\\Temp\\2\\rust_mozprofilezypJ5j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718830038208	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718830038557	Marionette	INFO	Listening on port 49923
+Read port: 49923
+1718830038858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1718830043936	Marionette	INFO	Stopped listening on port 49923
+Dynamically enable window occlusion 1
+1718904064646	geckodriver	INFO	Listening on 127.0.0.1:60378
+1718904067741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aluno\\AppData\\Local\\Temp\\2\\rust_mozprofileX0Ktxi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718904079975	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718904080426	Marionette	INFO	Listening on port 60402
+Read port: 60402
+1718904080849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1718904086059	Marionette	INFO	Stopped listening on port 60402
+Dynamically enable window occlusion 1
