@@ -257,3 +257,34 @@ JavaScript error: https://www.youtube.com/@pythonbrasiloficial, line 12: TypeErr
 JavaScript error: https://www.youtube.com/@pythonbrasiloficial, line 12: TypeError: can't access dead object
 JavaScript error: https://www.youtube.com/s/desktop/9f65bf98/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 6706: TypeError: can't access dead object
 JavaScript error: https://www.youtube.com/@pythonbrasiloficial, line 12: TypeError: can't access dead object
+1719002012267	geckodriver	INFO	Listening on 127.0.0.1:56210
+1719002015329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aluno\\AppData\\Local\\Temp\\2\\rust_mozprofilepc6kpu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719002016237	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1719002016595	Marionette	INFO	Listening on port 56220
+Read port: 56220
+1719002016945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1719002026428	Marionette	INFO	Stopped listening on port 56220
+JavaScript warning: https://www.youtube.com/s/desktop/9f65bf98/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 56: Script terminated by timeout at:
+wa@https://www.youtube.com/s/desktop/9f65bf98/jsbin/desktop_polymer.vflset/desktop_polymer.js:56:104
+Ay</a.prototype.push@https://www.youtube.com/s/desktop/9f65bf98/jsbin/desktop_polymer.vflset/desktop_polymer.js:4649:39
+fillRange_@https://www.youtube.com/s/desktop/9f65bf98/jsbin/desktop_polymer.vflset/desktop_polymer.js:16043:117
+renderChunk_@https://www.youtube.com/s/desktop/9f65bf98/jsbin/desktop_polymer.vflset/desktop_polymer.js:16047:180
+S@https://www.youtube.com/s/desktop/9f65bf98/jsbin/scheduler.vflset/scheduler.js:46:19
+V@https://www.youtube.com/s/desktop/9f65bf98/jsbin/scheduler.vflset/scheduler.js:55:415
+g.S@https://www.youtube.com/s/desktop/9f65bf98/jsbin/scheduler.vflset/scheduler.js:51:84
+window.requestAnimationFrame/<@https://www.youtube.com/s/desktop/9f65bf98/jsbin/web-animations-next-lite.min.vflset/web-animations-next-lite.min.js:96:192
+
+JavaScript error: https://www.youtube.com/@pythonbrasiloficial, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/@pythonbrasiloficial, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/@pythonbrasiloficial, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/@pythonbrasiloficial, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/@pythonbrasiloficial, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/@pythonbrasiloficial, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/@pythonbrasiloficial, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/s/desktop/9f65bf98/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 6706: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/@pythonbrasiloficial, line 12: TypeError: can't access dead object
+Dynamically enable window occlusion 1
+JavaScript error: https://www.youtube.com/@pythonbrasiloficial, line 12: TypeError: can't access dead object
