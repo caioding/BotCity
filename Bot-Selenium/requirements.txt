@@ -1,0 +1,4 @@
+# Configuração para usar esta versão específica do pacote
+selenium==4.10.0   
+# Incluindo a dependência BotCity Maestro SDK para orquestrar
+botcity-maestro-sdk
